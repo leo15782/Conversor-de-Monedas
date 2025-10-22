@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Conversor de Monedas</title>
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💱</text></svg>"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js" defer></script>
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <h1>💱 Conversor de Monedas</h1>
+    </header>
+    <main>
+      <div class="converter-container">
+        <div class="currency-section">
+          <label for="from-currency">Moneda de origen:</label>
+          <div class="autocomplete-container">
+            <input
+              type="text"
+              id="from-currency"
+              placeholder="Buscar moneda (ej: USD, Bitcoin, Euro)"
+              autocomplete="off"
+            />
+            <div id="from-currency-list" class="autocomplete-list"></div>
+          </div>
+        </div>
+
+        <div class="currency-section">
+          <label for="to-currency">Moneda de destino:</label>
+          <div class="autocomplete-container">
+            <input
+              type="text"
+              id="to-currency"
+              placeholder="Buscar moneda (ej: EUR, Ethereum, Peso)"
+              autocomplete="off"
+            />
+            <div id="to-currency-list" class="autocomplete-list"></div>
+          </div>
+        </div>
+
+        <div class="amount-section">
+          <label for="amount">Monto a convertir:</label>
+          <input
+            type="number"
+            id="amount"
+            placeholder="Ingrese el monto"
+            min="0"
+            step="0.01"
+          />
+        </div>
+
+        <button id="convert-btn" type="button">Convertir</button>
+
+        <div id="result" class="result-section">
+          <div class="default-message">
+            💱 Ingrese las monedas, el monto y haga click en convertir
+          </div>
+        </div>
+
+        <div id="chart-container" class="chart-container" style="display: none">
+          <h3>📈 Tendencia de precios (últimos 30 días)</h3>
+          <canvas id="price-chart"></canvas>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <p>&copy; 2025 LE Desarrollo y Soluciones</p>
+    </footer>
+  </body>
+</html>

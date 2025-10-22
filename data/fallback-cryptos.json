@@ -1,0 +1,40 @@
+{
+  "fallbackCryptos": [
+    {
+      "code": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "id": "bitcoin"
+    },
+    {
+      "code": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "id": "ethereum"
+    },
+    {
+      "code": "BNB",
+      "name": "Binance Coin",
+      "type": "crypto",
+      "id": "binancecoin"
+    },
+    {
+      "code": "ADA",
+      "name": "Cardano",
+      "type": "crypto",
+      "id": "cardano"
+    },
+    {
+      "code": "SOL",
+      "name": "Solana",
+      "type": "crypto",
+      "id": "solana"
+    },
+    {
+      "code": "XRP",
+      "name": "Ripple",
+      "type": "crypto",
+      "id": "ripple"
+    }
+  ]
+}
