@@ -20,7 +20,7 @@ Una aplicación web moderna y elegante para la conversión en tiempo real entre 
 
 ## 🚀 Demo en Vivo
 
-🔗 **[Ver Aplicación](https://tuusuario.github.io/conversor-monedas)**
+🔗 **[Ver Aplicación](https://leo15782.github.io/Conversor-de-Monedas)**
 
 ## 📸 Capturas de Pantalla
 
@@ -54,7 +54,7 @@ Una aplicación web moderna y elegante para la conversión en tiempo real entre 
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tuusuario/conversor-monedas.git
+git clone https://github.com/leo15782/Conversor-de-Monedas.git
 
 # Navegar al directorio
 cd conversor-monedas
@@ -193,5 +193,5 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ⭐ Si este proyecto te fue útil, ¡no olvides darle una estrella!
 
-![GitHub stars](https://img.shields.io/github/stars/tuusuario/conversor-monedas?style=social)
-![GitHub forks](https://img.shields.io/github/forks/tuusuario/conversor-monedas?style=social)
+![GitHub stars](https://img.shields.io/github/stars/leo15782/Conversor-de-Monedas?style=social)
+![GitHub forks](https://img.shields.io/github/forks/leo15782/Conversor-de-Monedas?style=social)
