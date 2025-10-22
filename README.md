@@ -25,18 +25,21 @@ Una aplicación web moderna y elegante para la conversión en tiempo real entre 
 ## 📸 Capturas de Pantalla
 
 ### Interfaz Principal
+
 ![Main Interface](docs/images/main-interface.png)
 
 ### Autocompletado
+
 ![Autocomplete](docs/images/autocomplete.png)
 
 ### Gráficos de Tendencias
+
 ![Charts](docs/images/price-charts.png)
 
 ## 🛠️ Tecnologías Utilizadas
 
 - **Frontend**: HTML5, CSS3, JavaScript ES6+
-- **Librerías**: 
+- **Librerías**:
   - [Chart.js](https://www.chartjs.org/) - Gráficos interactivos
   - [SweetAlert2](https://sweetalert2.github.io/) - Modales elegantes
 - **APIs**:
@@ -87,18 +90,21 @@ conversor-monedas/
 ## 🔧 Funcionalidades Técnicas
 
 ### Conversión de Monedas
+
 - **Fiat a Fiat**: USD, EUR, ARS, y más de 160 monedas
 - **Crypto a Crypto**: Bitcoin, Ethereum, y top 100 criptomonedas
 - **Fiat a Crypto**: Conversión cruzada entre tipos
 - **Crypto a Fiat**: Valores en tiempo real
 
 ### Sistema de Autocompletado
+
 - Búsqueda inteligente por código o nombre
 - Sugerencias de monedas populares
 - Navegación por teclado (flechas, Enter, Escape)
 - Agrupación por tipo de moneda
 
 ### Gráficos de Tendencias
+
 - Datos históricos de 30 días
 - Gráficos interactivos con Chart.js
 - Soporte para criptomonedas (datos reales)
@@ -115,12 +121,14 @@ conversor-monedas/
 ## 📊 APIs Utilizadas
 
 ### ExchangeRate-API
+
 - **URL**: `https://api.exchangerate-api.com/v4/latest/`
 - **Uso**: Tasas de cambio de monedas fiduciarias
 - **Gratuita**: Sin API key requerida
 - **Límite**: 1500 requests/mes
 
 ### CoinGecko API
+
 - **URL**: `https://api.coingecko.com/api/v3/`
 - **Uso**: Precios y datos de criptomonedas
 - **Gratuita**: Sin API key requerida
@@ -168,6 +176,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 ## 👨‍💻 Autor
 
 **Leonardo Espinel**
+
 - 🌐 **Empresa**: LE Desarrollo y Soluciones
 - 📧 **Email**: [tu-email@example.com](mailto:tu-email@example.com)
 - 💼 **LinkedIn**: [tu-linkedin](https://linkedin.com/in/tu-perfil)
