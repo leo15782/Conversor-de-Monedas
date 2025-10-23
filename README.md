@@ -23,19 +23,6 @@ Una aplicación web moderna y elegante para la conversión en tiempo real entre 
 
 🔗 **[Ver Aplicación](https://leo15782.github.io/Conversor-de-Monedas)**
 
-## 📸 Capturas de Pantalla
-
-### Interfaz Principal
-
-![Main Interface](docs/images/main-interface.png)
-
-### Autocompletado
-
-![Autocomplete](docs/images/autocomplete.png)
-
-### Gráficos de Tendencias
-
-![Charts](docs/images/price-charts.png)
 
 ## 🛠️ Tecnologías Utilizadas
 
