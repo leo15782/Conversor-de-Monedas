@@ -166,16 +166,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 **Leonardo Espinel**
 
 - 🌐 **Empresa**: LE Desarrollo y Soluciones
-- 📧 **Email**: [tu-email@example.com](mailto:tu-email@example.com)
-- 💼 **LinkedIn**: [tu-linkedin](https://linkedin.com/in/tu-perfil)
-- 🐙 **GitHub**: [tu-github](https://github.com/tu-usuario)
-
-## 🙏 Agradecimientos
-
-- [ExchangeRate-API](https://www.exchangerate-api.com/) por proporcionar datos gratuitos de monedas
-- [CoinGecko](https://www.coingecko.com/) por la API de criptomonedas
-- [Chart.js](https://www.chartjs.org/) por los gráficos interactivos
-- [SweetAlert2](https://sweetalert2.github.io/) por los modales elegantes
+- 📧 **Email**: [leo15782@gmail.com]
+- 💼 **LinkedIn**: [www.linkedin.com/in/leonardo-espinel-1a6a74282]
+- 🐙 **GitHub**: [https://github.com/leo15782]
 
 ---
 
